@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<movie title= "Kimi No Nawa(Your Name)" year = "2016" score="8.86">
+		<title>Kimi No Nawa (Your Name)</title>
+		<year>2016</year>
+		<genre>Drama, Romance, Supernatural</genre>
+		<length>106 minutes</length>
+		<director>Makoto Shinkai</director>
+		<score>8.89</score>
+		<image>KimiNoNawa.jpg</image>
+		<description>Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.</description>
+		</movie>
+	<movie title = "The Joker" year ="2019" score = "8.4">
+		<title>The Joker</title>
+		<year>2019</year>
+		<genre>Psychological Thriller</genre>
+		<length>122 minutes</length>
+		<director>Todd Philips</director>
+		<score>8.4</score>
+		<image>joker.jpg</image>
+		<description>Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society, Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.</description>
+	</movie>
+	<movie title = "Puella Magi Madoka Magica: Rebellion" year = "2013" score = "8.46">
+		<title>Puella Magi Madoka Magica: Rebellion</title>
+		<year>2013</year>
+		<genre>Drama, Mystery, Suspense</genre>
+		<length>116 minutes</length>
+		<director>Akiyuki Shinbou</director>
+		<score>8.46</score>
+		<image>madoka3.jpg</image>
+		<description>Homura fights on alone in the world that Madoka left behind for humanity, but the recovery of her memory brings with it an earth-shattering discovery.</description>
+	</movie>
+	<movie title = "Coco" year = "2017" score = "8.4">
+		<title>Coco</title>
+		<year>2017</year>
+		<genre>Adventure, Comedy</genre>
+		<length>105 minutes</length>
+		<director>Lee Unkrich, Adrian Molina</director>
+		<score>8.4</score>
+		<image>Coco.jpg</image>
+		<description>Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead. After meeting a charming trickster named Héctor, the two new friends embark on an extraordinary journey to unlock the real story behind Miguel's family history.</description>
+	</movie>
+	<movie title = "Whiplash" year = "2014" score = "8.5">
+		<title>Whiplash</title>
+		<year>2014</year>
+		<genre>Drama, Music</genre>
+		<length>106 minutes</length>
+		<director>Diamen Chazelle</director>
+		<score>8.5</score>
+		<image>Whiplash.jpg</image>
+		<description>Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity.</description>
+	</movie>
+	<movie title = "Koe no Katachi (A Silent Voice)" year = "2016" score = "8.97">
+		<title>Koe No Katachi (A Silent Voice)</title>
+		<year>2016</year>
+		<genre>Drama</genre>
+		<length>170 minutes</length>
+		<director>Naoko Yamada</director>
+		<score>8.97</score>
+		<image>A_Silent_Voice.jpg</image>
+		<description>When a grade school student with impaired hearing is bullied mercilessly, she transfers to another school. Years later, one of her former tormentors sets out to make amends.</description>
+	</movie>
+	<movie title= "Shrek" year = "2001" score = "7.9">
+		<title>Shrek</title>
+		<year>2001</year>
+		<genre> Adventure, Comedy</genre>
+		<length>90 minutes</length>
+		<director>Andrew Adamson, Vicky Jenson</director>
+		<score>7.9</score>
+		<image>Shrek.jpg</image>
+		<description>Once upon a time, in a far away swamp, there lived an ogre named Shrek (Mike Myers) whose precious solitude is suddenly shattered by an invasion of annoying fairy tale characters. They were all banished from their kingdom by the evil Lord Farquaad (John Lithgow). Determined to save their home -- not to mention his -- Shrek cuts a deal with Farquaad and sets out to rescue Princess Fiona (Cameron Diaz) to be Farquaad's bride. Rescuing the Princess may be small compared to her deep, dark secret.</description>
+	</movie>
+	<movie title="Star Wars: Episode II - Attack of the Clones" year = "2002" score = "6.5">
+		<title>Star Wars: Episode II - Attack of the Clones</title>
+		<year>2002</year>
+		<genre>Action, Adventure, Fantasy</genre>
+		<length>142 minutes</length>
+		<director>George Lucas</director>
+		<score>6.5</score>
+		<image>StarWars2.jpg</image>
+		<description>Set ten years after the events of "The Phantom Menace," the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.</description>
+	</movie>
+	<movie title = "Demon Slayer The Movie: Mugen Train" year = "2020" score = "8.72">
+		<title>Demon Slayer The Movie: Mugen Train</title>
+		<year>2020</year>
+		<genre>SuperNatural</genre>
+		<length>116 minutes</length>
+		<director>Haruo Sotozaki</director>
+		<score>8.72</score>
+		<image>DemonSlayerMovie.jpg</image>
+		<description>A boy raised by boars, who wears a boar's head, boards the Infinity Train on a new mission with the Flame Pillar along with another boy who reveals his true power when he sleeps. Their mission is to defeat a demon who has been tormenting people and killing the demon slayers who oppose it.</description>
+	</movie>
+	<movie title = "Scott Pilgrim vs. the World" year = "2010" score = "7.5">
+		<title>Scott Pilgrim vs. the World</title>
+		<year>2010</year>
+		<genre>Action, Comedy, Fantasy</genre>
+		<length>112 minutes</length>
+		<director>Edgar Wright</director>
+		<score>7.5</score>
+		<image>Scott_Pilgrim_vs._the_World.jpg</image>
+		<description>As bass guitarist for a garage-rock band, Scott Pilgrim (Michael Cera) has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers (Mary Elizabeth Winstead) skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.</description>
+	</movie>
+	<movie title = "The Avengers" year = "2012" score = "8.0">
+		<title>The Avengers</title>
+		<year>2012</year>
+		<genre>Action, Adventure, Sci-Fi</genre>
+		<length>143 minutes</length>
+		<director>Joss Whedon</director>
+		<score>8.0</score>
+		<image>The_Avengers.jpg</image>
+		<description>When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract, Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D., initiates a superhero recruitment effort to defeat the unprecedented threat to Earth. Joining Fury's "dream team" are Iron Man (Robert Downey Jr.), Captain America (Chris Evans), the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner).</description>
+	</movie>
+	<movie title = "Avengers: Age of Ultron" year = "2015" score = "7.3">
+		<title>Avengers: Age of Ultron</title>
+		<year>2015</year>
+		<genre>Action, Adventure, Sci-Fi</genre>
+		<length>141 minutes</length>
+		<director>Joss Whedon</director>
+		<score>7.3</score>
+		<image>Avengers_Age_of_Ultron.jpg</image>
+		<description>When Tony Stark (Robert Downey Jr.) jump-starts a dormant peacekeeping program, things go terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk (Mark Ruffalo) and the rest of the Avengers to reassemble. As the fate of Earth hangs in the balance, the team is put to the ultimate test as they battle Ultron, a technological terror hell-bent on human extinction. Along the way, they encounter two mysterious and powerful newcomers, Pietro and Wanda Maximoff.</description>
+	</movie>
+	<movie title = "Avengers: Infinity War" year = "2018" score = "8.4">
+		<title>Avengers: Infinity War</title>
+		<year>2018</year>
+		<genre>Action, Adventure, Sci-Fi</genre>
+		<length>149 minutes</length>
+		<director>Anthony Russo, Joe Russo</director>
+		<score>8.4</score>
+		<image>Avengers_Infinity_War.jpg</image>
+		<description>Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.</description>
+	</movie>
+	<movie title = "Avengers: Endgame" year = "2019" score = "8.4">
+		<title>Avengers: Endgame</title>
+		<year>2019</year>
+		<genre>Action, Adventure, Drama</genre>
+		<length>181 minutes</length>
+		<director>Anthony Russo, Joe Russo</director>
+		<score>8.4</score>
+		<image>Avengers_Endgame.jpg</image>
+		<description>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.</description>
+	</movie>
+	<movie title = "The Lord of the Rings: The Fellowship of the Ring" year = "2001" score = "8.8">
+		<title>The Lord of the Rings: The Fellowship of the Ring</title>
+		<year>2001</year>
+		<genre>Action, Adventure, Drama</genre>
+		<length>178 minutes</length>
+		<director>Peter Jackson</director>
+		<score>8.8</score>
+		<image>The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg</image>
+		<description>The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.</description>
+	</movie>
+	<movie title = "The Lord of the Rings: The Two Towers" year = "2002" score = "8.7">
+		<title>The Lord of the Rings: The Two Towers</title>
+		<year>2002</year>
+		<genre>Action, Adventure, Drama</genre>
+		<length>179 minutes</length>
+		<director>Peter Jackson</director>
+		<score>8.7</score>
+		<image>The_Lord_of_the_Rings_The_Two_Towers.jpg</image>
+		<description>The sequel to the Golden Globe-nominated and AFI Award-winning "The Lord of the Rings: The Fellowship of the Ring," "The Two Towers" follows the continuing quest of Frodo (Elijah Wood) and the Fellowship to destroy the One Ring. Frodo and Sam (Sean Astin) discover they are being followed by the mysterious Gollum. Aragorn (Viggo Mortensen), the Elf archer Legolas and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell.</description>
+	</movie>
+	<movie title = "The Lord of the Rings: The Return of the King" year = "2003" score=  "8.9">
+		<title>The Lord of the Rings: The Return of the King</title>
+		<year>2003</year>
+		<genre>Action, Adventure, Drama</genre>
+		<length>201 minutes</length>
+		<director>Peter Jackson</director>
+		<score>8.9</score>
+		<image>The_Lord_of_the_Rings_The_Return_of_the_King.jpg</image>
+		<description>The culmination of nearly 10 years' work and conclusion to Peter Jackson's epic trilogy based on the timeless J.R.R. Tolkien classic, "The Lord of the Rings: The Return of the King" presents the final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the `one ring', while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.</description>
+	</movie>
+	<movie title = "The Fast and the Furious: Tokyo Drift" year = "2006" score = "6.0">
+		<title>The Fast and the Furious: Tokyo Drift</title>
+		<year>2006</year>
+		<genre>Action, Crime, Thriller</genre>
+		<length>104 minutes</length>
+		<director>Justin Lin</director>
+		<score>6.0</score>
+		<image>Fast_and_Furious_Tokyo_Drift.jpg</image>
+		<description>Sean Boswell (Lucas Black) always feels like an outsider, but he defines himself through his victories as a street racer. His hobby makes him unpopular with the authorities, so he goes to live with his father in Japan. Once there and even more alienated, he learns about an exciting, but dangerous, new style of the sport. The stakes are high when Sean takes on the local champion and falls for the man's girlfriend.</description>
+	</movie>
+	<movie title = "The Shawshank Redemption" year = "1994" score = "9.3">
+		<title>The Shawshank Redemption</title>
+		<year>1994</year>
+		<genre>Drama</genre>
+		<length>142 minutes</length>
+		<director>Frank Darabont</director>
+		<score>9.3</score>
+		<image>ShawshankRedemptionMoviePoster.jpg</image>
+		<description>Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.</description>
+	</movie>
+	<movie title = "The Accountant" year = "2016" score = "7.3">
+		<title>The Accountant</title>
+		<year>2016</year> 
+		<genre>Action</genre>
+		<length>128 minutes</length>
+		<director>Gavin O'Connor</director>
+		<score>7.3</score>
+		<image>The_Accountant.jpg</image>
+		<description>Christian Wolff (Ben Affleck) is a mathematics savant with more affinity for numbers than people. Using a small-town CPA office as a cover, he makes his living as a freelance accountant for dangerous criminal organizations. With a Treasury agent (J.K. Simmons) hot on his heels, Christian takes on a state-of-the-art robotics company as a legitimate client. As Wolff gets closer to the truth about a discrepancy that involves millions of dollars, the body count starts to rise.</description>
+	</movie>
+	<movie title = "Moneyball" year = "2011" score= "7.6">
+		<title>Moneyball</title>
+		<year>2011</year>
+		<genre>Sport</genre>
+		<length>133 minutes</length>
+		<director>Bennett Miller</director>
+		<score>7.6</score>
+		<image>Moneyball_Poster.jpg</image>
+		<description>Billy Beane (Brad Pitt), general manager of the Oakland A's, one day has an epiphany: Baseball's conventional wisdom is all wrong. Faced with a tight budget, Beane must reinvent his team by outsmarting the richer ball clubs. Joining forces with Ivy League graduate Peter Brand (Jonah Hill), Beane prepares to challenge old-school traditions. He recruits bargain-bin players whom the scouts have labeled as flawed, but have game-winning potential. Based on the book by Michael Lewis.</description>
+	</movie>
+	<movie title = "Inception" year = "2010" score = "8.8">
+		<title>Inception</title>
+		<year>2010</year>
+		<genre>Action</genre>
+		<length>148 minutes</length>
+		<director>Christopher Nolan</director>
+		<score>8.8</score>
+		<image>Inception.jpg</image>
+		<description>Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.</description>
+	</movie>
+	<movie title = "Harry Potter and the Philosopher's Stone" year = "2001" score = "7.6">
+		<title>Harry Potter and the Philosopher's Stone</title>
+		<year>2001</year>
+		<genre>Fantasy</genre>
+		<length>152 minutes</length>
+		<director>Chris Columbus</director>
+		<score>7.6</score>
+		<image>PS_poster.jpg</image>
+		<description>Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.</description>
+		</movie>
+	<movie title = "Die Hard" year = "1988" score = "8.2">
+		<title>Die Hard</title>
+		<year>1988</year>
+		<genre>Action</genre>
+		<length>172 minutes</length>
+		<director>John McTiernan</director>
+		<score>8.2</score>
+		<image>diehard.jpg</image>
+		<description>New York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) and two daughters on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.</description>
+	</movie>
+	<movie title = "WALL-E" year = "2008" score = "8.4">
+		<title>WALL-E</title>
+		<year>2008</year>
+		<genre>Family</genre>
+		<length>98 minutes</length>
+		<director>Andrew Stanton</director>
+		<score>8.4</score>
+		<image>WALL-Eposter.jpg</image>
+		<description>WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece of garbage at a time. But during 700 years, WALL-E has developed a personality, and he's more than a little lonely. Then he spots EVE (Elissa Knight), a sleek and shapely probe sent back to Earth on a scanning mission. Smitten WALL-E embarks on his greatest adventure yet when he follows EVE across the galaxy.</description>
+	</movie>
+	<movie title ="Up" year = "2009" score = "8.2">
+		<title>Up</title>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<length>96 minutes</length>
+		<director>Pete Docter</director>
+		<score>8.2</score>
+		<image>Up_(2009_film).jpg</image>
+		<description>Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Carl's worst nightmare comes true when he discovers a little boy named Russell is a stowaway aboard the balloon-powered house. A Pixar animation.</description>
+	</movie>
+	<movie title = "Ratatouille" year = "2007" score = "8.0">
+		<title>Ratatouille</title>
+		<year>2007</year>
+		<genre>Comedy</genre>
+		<length>111 minutes</length>
+		<director>Brad Bird</director>
+		<score>8.0</score>
+		<image>ratatouille.jpg</image>
+		<description>Remy dreams of becoming a great chef, despite being a rat in a definitely rodent-phobic profession. He moves to Paris to follow his dream, and with the help of hapless garbage boy Linguini he puts his culinary skills to the test in the kitchen but he has to stay in hiding at the same time, with hilarious consequences. Remy eventually gets the chance to prove his culinary abilities to a great food critic but is the food good? A Pixar animation.</description>
+	</movie>
+</movies>

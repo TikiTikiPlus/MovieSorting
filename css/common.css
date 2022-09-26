@@ -1,0 +1,15 @@
+html {
+	font-family: sans-serif;
+}
+.hidden {
+	visibility: hidden;
+}
+.visible {
+	visibility: visible;
+}
+.missing {
+	border-color: red;
+}
+.present {
+	border-color: green;
+}
